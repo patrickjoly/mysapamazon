@@ -1,0 +1,12 @@
+connecxion BD sur Amazon WS
+database:mysap
+user:mysap
+password:mysappass1
+
+connexion au serveur Amazon
+ssh -i "mysap.pem" ec2-user@ec2-18-188-201-160.us-east-2.compute.amazonaws.com
+
+path du certificat
+
+cd /Users/patrickjoly/Documents/certificats
+
